@@ -104,5 +104,4 @@ y al final una celda con los **hallazgos**.
 
 ## Pendiente antes de entregar
 
-1. En la primera celda del notebook, completar el carné.
-2. Subir `lab4_IC2025.ipynb` al campus virtual.
+1. Subir `lab4_IC2025.ipynb` al campus virtual.
