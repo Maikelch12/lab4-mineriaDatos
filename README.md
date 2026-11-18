@@ -96,12 +96,13 @@ y al final una celda con los **hallazgos**.
 
 ---
 
+## Repositorio
+
+- Repositorio público: https://github.com/Maikelch12/lab4-mineriaDatos
+- El notebook lee el dataset desde:
+  `https://raw.githubusercontent.com/Maikelch12/lab4-mineriaDatos/main/datos/recursos_contratacion_2022_2024.csv`
+
 ## Pendiente antes de entregar
 
-1. Crear un repositorio **público** en GitHub y subir `datos/recursos_contratacion_2022_2024.csv`.
-2. En GitHub, abrir el archivo → botón **Raw** → copiar la URL.
-3. En el notebook, sección 2, pegar esa URL en `URL_GITHUB`
-   (mientras no la pongas, el notebook usa la copia de la carpeta `datos/`).
-4. En la primera celda, cambiar `[Nombre completo] – [Carné]` por tus datos
-   (doble clic en la celda para editarla, Shift + Enter para terminar).
-5. **Run All**, guardar (Ctrl + S) y subir `lab4_IC2025.ipynb` al campus virtual.
+1. En la primera celda del notebook, completar el carné.
+2. Subir `lab4_IC2025.ipynb` al campus virtual.
